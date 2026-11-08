@@ -1,2 +1,0 @@
-I am student of amity university
-I am learning Git experiment practically
